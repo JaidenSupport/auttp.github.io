@@ -7,6 +7,8 @@
 .topBar {
 	background-color: #404040;
 	padding: 8px;
+	border: hidden;
+	border-radius: 4%
 }
 
 a {
@@ -15,12 +17,12 @@ a {
 }
 
 .inquiries {
-	padding-top: 30px;
+	padding-top: 30vmax;
 }
 
 img {
 	border: 2px solid white;
-	border-radius: 4px;
+	border-radius: 4%;
 }
 
 html {
